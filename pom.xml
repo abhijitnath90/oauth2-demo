@@ -11,7 +11,7 @@
 	<groupId>com.nath.abhijit</groupId>
 	<artifactId>oauth2-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>api-gateway</name>
+	<name>oauth2-demo</name>
 	<description>demo application for implementing OAuth2</description>
 	<properties>
 		<java.version>1.8</java.version>
